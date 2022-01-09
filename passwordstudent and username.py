@@ -1,0 +1,8 @@
+print('enter a password')
+p = input()
+a = open('password student.txt','w')
+a.write(p)
+print('enter user name')
+u = input()
+m = open('user stu.txt','w')
+m.write(u)
