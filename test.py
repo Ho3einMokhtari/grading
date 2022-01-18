@@ -11,3 +11,11 @@ grades = {
 
 f = open('stu.txt', 'w')
 f.write(json.dumps(grades))
+f.close()
+
+g = open('stu.txt', 'r')
+s = g.read()
+g.close()
+
+print(s)
+print(hash(s))

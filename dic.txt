@@ -1,1 +1,1 @@
-{"ali": 20}
+{"hossein": 18, "reza": 12, "zahra": 20}
