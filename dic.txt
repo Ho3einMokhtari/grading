@@ -1,1 +1,1 @@
-{"hossein": 18, "reza": 12, "zahra": 20}
+{"reza": {"math": 30}}
