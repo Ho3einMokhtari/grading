@@ -1,5 +1,13 @@
 import json
 
+a = int(input())
+if a == 1:
+    pass
+elif a == 2:
+    print('yes')
+else:
+    print('no')
+
 print('Grading System')
 
 grades = {
